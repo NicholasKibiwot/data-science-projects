@@ -25,8 +25,8 @@ An end-to-end machine learning workflow implementing MLOps best practices to pre
 **Features:** 8 (MedInc, HouseAge, AveRooms, AveBedrms, Population, AveOccup, Latitude, Longitude)
 
 **Links:**
-- [Kaggle Notebook](https://www.kaggle.com/code/nicholaskibiwot254/assignment-9-mlops)
-- [Course Assignment](https://learning.cybershujaa.co.ke/mod/assign/view.php?id=2968)
+- [Kaggle Notebook](https://www.kaggle.com/code/nicholaskibiwot254/nicholas-kibiwot-cs-da02-25060-mlops)
+
 
 ## 🛠️ Technologies & Tools
 
